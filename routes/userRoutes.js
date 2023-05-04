@@ -1,5 +1,5 @@
 const express = require('express')
-const { createquiz } = require('../controller/quizemodel')
+const { createquiz } = require('../controller/quizeCtrl')
 
 
 
